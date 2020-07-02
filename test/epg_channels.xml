@@ -1,0 +1,2383 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tv SYSTEM "http://www.teleguide.info/download/xmltv.dtd">
+<tv generator-info-name="TVH_W/0.751l" generator-info-url="http://www.teleguide.info/">
+	<channel id="1">
+		<display-name lang="ru">Первый канал</display-name>
+		<icon src="http://img.teleguide.info/channel/1.gif" />
+	</channel>
+	<channel id="2">
+		<display-name lang="ru">Россия 1</display-name>
+		<icon src="http://img.teleguide.info/channel/2.gif" />
+	</channel>
+	<channel id="3">
+		<display-name lang="ru">ТВ Центр</display-name>
+		<icon src="http://img.teleguide.info/channel/3.gif" />
+	</channel>
+	<channel id="4">
+		<display-name lang="ru">НТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/4.gif" />
+	</channel>
+	<channel id="5">
+		<display-name lang="ru">Культура</display-name>
+		<icon src="http://img.teleguide.info/channel/5.gif" />
+	</channel>
+	<channel id="101">
+		<display-name lang="ru">ТНТ</display-name>
+		<icon src="http://img.teleguide.info/channel/101.gif" />
+	</channel>
+	<channel id="102">
+		<display-name lang="ru">Домашний</display-name>
+		<icon src="http://img.teleguide.info/channel/102.gif" />
+	</channel>
+	<channel id="103">
+		<display-name lang="ru">РЕН ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/103.gif" />
+	</channel>
+	<channel id="104">
+		<display-name lang="ru">СТС</display-name>
+		<icon src="http://img.teleguide.info/channel/104.gif" />
+	</channel>
+	<channel id="105">
+		<display-name lang="ru">ТВ-3</display-name>
+		<icon src="http://img.teleguide.info/channel/105.gif" />
+	</channel>
+	<channel id="106">
+		<display-name lang="ru">Москва-24</display-name>
+		<icon src="http://img.teleguide.info/channel/106.gif" />
+	</channel>
+	<channel id="107">
+		<display-name lang="ru">MTV Россия</display-name>
+		<icon src="http://img.teleguide.info/channel/107.gif" />
+	</channel>
+	<channel id="108">
+		<display-name lang="ru">Ю</display-name>
+		<icon src="http://img.teleguide.info/channel/108.gif" />
+	</channel>
+	<channel id="172">
+		<display-name lang="ru">Ямал-Регион</display-name>
+	</channel>
+	<channel id="201">
+		<display-name lang="ru">Киносвидание</display-name>
+		<icon src="http://img.teleguide.info/channel/201.gif" />
+	</channel>
+	<channel id="202">
+		<display-name lang="ru">Родное кино</display-name>
+		<icon src="http://img.teleguide.info/channel/202.gif" />
+	</channel>
+	<channel id="203">
+		<display-name lang="ru">Кинопремьера</display-name>
+		<icon src="http://img.teleguide.info/channel/203.gif" />
+	</channel>
+	<channel id="205">
+		<display-name lang="ru">Матч! Футбол 1</display-name>
+		<icon src="http://img.teleguide.info/channel/205.gif" />
+	</channel>
+	<channel id="206">
+		<display-name lang="ru">Eurosport 1</display-name>
+		<icon src="http://img.teleguide.info/channel/206.gif" />
+	</channel>
+	<channel id="208">
+		<display-name lang="ru">Евроновости</display-name>
+		<icon src="http://img.teleguide.info/channel/208.gif" />
+	</channel>
+	<channel id="211">
+		<display-name lang="ru">Cartoon Network</display-name>
+		<icon src="http://img.teleguide.info/channel/211.gif" />
+	</channel>
+	<channel id="214">
+		<display-name lang="ru">Animal Planet</display-name>
+		<icon src="http://img.teleguide.info/channel/214.gif" />
+	</channel>
+	<channel id="216">
+		<display-name lang="ru">Детский мир</display-name>
+		<icon src="http://img.teleguide.info/channel/216.gif" />
+	</channel>
+	<channel id="218">
+		<display-name lang="ru">Nickelodeon</display-name>
+		<icon src="http://img.teleguide.info/channel/218.gif" />
+	</channel>
+	<channel id="219">
+		<display-name lang="ru">BBC World</display-name>
+		<icon src="http://img.teleguide.info/channel/219.gif" />
+	</channel>
+	<channel id="220">
+		<display-name lang="ru">Bloomberg</display-name>
+		<icon src="http://img.teleguide.info/channel/220.gif" />
+	</channel>
+	<channel id="221">
+		<display-name lang="ru">CNN International</display-name>
+		<icon src="http://img.teleguide.info/channel/221.gif" />
+	</channel>
+	<channel id="222">
+		<display-name lang="ru">Спас ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/222.gif" />
+	</channel>
+	<channel id="223">
+		<display-name lang="ru">Discovery World</display-name>
+		<icon src="http://img.teleguide.info/channel/223.gif" />
+	</channel>
+	<channel id="224">
+		<display-name lang="ru">Discovery Science</display-name>
+		<icon src="http://img.teleguide.info/channel/224.gif" />
+	</channel>
+	<channel id="226">
+		<display-name lang="ru">Discovery Channel</display-name>
+		<icon src="http://img.teleguide.info/channel/226.gif" />
+	</channel>
+	<channel id="229">
+		<display-name lang="ru">Mezzo</display-name>
+		<icon src="http://img.teleguide.info/channel/229.gif" />
+	</channel>
+	<channel id="230">
+		<display-name lang="ru">CBS Reality</display-name>
+		<icon src="http://img.teleguide.info/channel/230.gif" />
+	</channel>
+	<channel id="231">
+		<display-name lang="ru">TV5-Monde</display-name>
+		<icon src="http://img.teleguide.info/channel/231.gif" />
+	</channel>
+	<channel id="232">
+		<display-name lang="ru">VH1 European</display-name>
+		<icon src="http://img.teleguide.info/channel/232.gif" />
+	</channel>
+	<channel id="233">
+		<display-name lang="ru">TCM</display-name>
+		<icon src="http://img.teleguide.info/channel/233.gif" />
+	</channel>
+	<channel id="236">
+		<display-name lang="ru">Первый канал (Орбита 1 +8)</display-name>
+		<icon src="http://img.teleguide.info/channel/236.gif" />
+	</channel>
+	<channel id="237">
+		<display-name lang="ru">Россия 1 (дубль 1)</display-name>
+		<icon src="http://img.teleguide.info/channel/237.gif" />
+	</channel>
+	<channel id="242">
+		<display-name lang="ru">Первый канал (Орбита 2 +6)</display-name>
+		<icon src="http://img.teleguide.info/channel/242.gif" />
+	</channel>
+	<channel id="243">
+		<display-name lang="ru">Первый канал (Орбита 3 +4)</display-name>
+		<icon src="http://img.teleguide.info/channel/243.gif" />
+	</channel>
+	<channel id="244">
+		<display-name lang="ru">Первый канал (Орбита 4 +2)</display-name>
+		<icon src="http://img.teleguide.info/channel/244.gif" />
+	</channel>
+	<channel id="245">
+		<display-name lang="ru">Россия 1 (дубль 2)</display-name>
+		<icon src="http://img.teleguide.info/channel/245.gif" />
+	</channel>
+	<channel id="246">
+		<display-name lang="ru">Россия 1 (дубль 3)</display-name>
+		<icon src="http://img.teleguide.info/channel/246.gif" />
+	</channel>
+	<channel id="247">
+		<display-name lang="ru">Россия 1 (дубль 4)</display-name>
+		<icon src="http://img.teleguide.info/channel/247.gif" />
+	</channel>
+	<channel id="254">
+		<display-name lang="ru">ОТВ - Областное телевидение</display-name>
+		<icon src="http://img.teleguide.info/channel/254.gif" />
+	</channel>
+	<channel id="255">
+		<display-name lang="ru">Пятый Канал</display-name>
+		<icon src="http://img.teleguide.info/channel/255.gif" />
+	</channel>
+	<channel id="259">
+		<display-name lang="ru">Extreme Sports</display-name>
+		<icon src="http://img.teleguide.info/channel/259.gif" />
+	</channel>
+	<channel id="263">
+		<display-name lang="ru">Новгородское Областное телевидение</display-name>
+	</channel>
+	<channel id="269">
+		<display-name lang="ru">78 канал</display-name>
+		<icon src="http://img.teleguide.info/channel/269.gif" />
+	</channel>
+	<channel id="274">
+		<display-name lang="ru">Рен ТВ (+2)</display-name>
+	</channel>
+	<channel id="276">
+		<display-name lang="ru">Канал 2x2</display-name>
+		<icon src="http://img.teleguide.info/channel/276.gif" />
+	</channel>
+	<channel id="277">
+		<display-name lang="ru">AjaraTV</display-name>
+		<icon src="http://img.teleguide.info/channel/277.gif" />
+	</channel>
+	<channel id="278">
+		<display-name lang="ru">Кубань 24 Орбита</display-name>
+	</channel>
+	<channel id="280">
+		<display-name lang="ru">CNBC</display-name>
+		<icon src="http://img.teleguide.info/channel/280.gif" />
+	</channel>
+	<channel id="284">
+		<display-name lang="ru">National Geographic</display-name>
+		<icon src="http://img.teleguide.info/channel/284.gif" />
+	</channel>
+	<channel id="288">
+		<display-name lang="ru">TV1000</display-name>
+		<icon src="http://img.teleguide.info/channel/288.gif" />
+	</channel>
+	<channel id="289">
+		<display-name lang="ru">TV XXI</display-name>
+		<icon src="http://img.teleguide.info/channel/289.gif" />
+	</channel>
+	<channel id="291">
+		<display-name lang="ru">Кинокомедия</display-name>
+		<icon src="http://img.teleguide.info/channel/291.gif" />
+	</channel>
+	<channel id="293">
+		<display-name lang="ru">Travel Channel</display-name>
+		<icon src="http://img.teleguide.info/channel/293.gif" />
+	</channel>
+	<channel id="294">
+		<display-name lang="ru">Hollywood</display-name>
+		<icon src="http://img.teleguide.info/channel/294.gif" />
+	</channel>
+	<channel id="298">
+		<display-name lang="ru">Кинохит</display-name>
+		<icon src="http://img.teleguide.info/channel/298.gif" />
+	</channel>
+	<channel id="304">
+		<display-name lang="ru">ТНТ (+2)</display-name>
+	</channel>
+	<channel id="311">
+		<display-name lang="ru">ТРК Киев</display-name>
+		<icon src="http://img.teleguide.info/channel/311.gif" />
+	</channel>
+	<channel id="314">
+		<display-name lang="ru">М-1</display-name>
+		<icon src="http://img.teleguide.info/channel/314.gif" />
+	</channel>
+	<channel id="315">
+		<display-name lang="ru">Новый Канал</display-name>
+		<icon src="http://img.teleguide.info/channel/315.gif" />
+	</channel>
+	<channel id="318">
+		<display-name lang="ru">СТБ</display-name>
+		<icon src="http://img.teleguide.info/channel/318.gif" />
+	</channel>
+	<channel id="319">
+		<display-name lang="ru">ТЕТ</display-name>
+		<icon src="http://img.teleguide.info/channel/319.gif" />
+	</channel>
+	<channel id="320">
+		<display-name lang="ru">Тонис</display-name>
+		<icon src="http://img.teleguide.info/channel/320.gif" />
+	</channel>
+	<channel id="321">
+		<display-name lang="ru">Украина</display-name>
+		<icon src="http://img.teleguide.info/channel/321.gif" />
+	</channel>
+	<channel id="324">
+		<display-name lang="ru">Viasat Explore</display-name>
+		<icon src="http://img.teleguide.info/channel/324.gif" />
+	</channel>
+	<channel id="325">
+		<display-name lang="ru">Viasat History</display-name>
+		<icon src="http://img.teleguide.info/channel/325.gif" />
+	</channel>
+	<channel id="326">
+		<display-name lang="ru">РБК</display-name>
+		<icon src="http://img.teleguide.info/channel/326.gif" />
+	</channel>
+	<channel id="329">
+		<display-name lang="ru">Ретро ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/329.gif" />
+	</channel>
+	<channel id="330">
+		<display-name lang="ru">Звезда</display-name>
+		<icon src="http://img.teleguide.info/channel/330.gif" />
+	</channel>
+	<channel id="334">
+		<display-name lang="ru">ННТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/334.gif" />
+	</channel>
+	<channel id="366">
+		<display-name lang="ru">41 канал (Домашний)</display-name>
+		<icon src="http://img.teleguide.info/channel/366.gif" />
+	</channel>
+	<channel id="369">
+		<display-name lang="ru">О2ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/369.gif" />
+	</channel>
+	<channel id="401">
+		<display-name lang="ru">Русский роман</display-name>
+	</channel>
+	<channel id="432">
+		<display-name lang="ru">Усадьба</display-name>
+		<icon src="http://img.teleguide.info/channel/432.gif" />
+	</channel>
+	<channel id="446">
+		<display-name lang="ru">ТНТ (Челябинск)</display-name>
+	</channel>
+	<channel id="447">
+		<display-name lang="ru">Наше Новое Кино</display-name>
+		<icon src="http://img.teleguide.info/channel/447.gif" />
+	</channel>
+	<channel id="475">
+		<display-name lang="ru">Югра</display-name>
+	</channel>
+	<channel id="503">
+		<display-name lang="ru">ТНТ Music</display-name>
+		<icon src="http://img.teleguide.info/channel/503.gif" />
+	</channel>
+	<channel id="504">
+		<display-name lang="ru">Матч! Премьер</display-name>
+		<icon src="http://img.teleguide.info/channel/504.gif" />
+	</channel>
+	<channel id="528">
+		<display-name lang="ru">Драйв ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/528.gif" />
+	</channel>
+	<channel id="529">
+		<display-name lang="ru">Здоровое Телевидение</display-name>
+		<icon src="http://img.teleguide.info/channel/529.gif" />
+	</channel>
+	<channel id="530">
+		<display-name lang="ru">Охота и рыбалка</display-name>
+		<icon src="http://img.teleguide.info/channel/530.gif" />
+	</channel>
+	<channel id="540">
+		<display-name lang="ru">Русский Экстрим</display-name>
+		<icon src="http://img.teleguide.info/channel/540.gif" />
+	</channel>
+	<channel id="541">
+		<display-name lang="ru">Индийское кино</display-name>
+		<icon src="http://img.teleguide.info/channel/541.gif" />
+	</channel>
+	<channel id="553">
+		<display-name lang="ru">Авто Плюс</display-name>
+		<icon src="http://img.teleguide.info/channel/553.gif" />
+	</channel>
+	<channel id="554">
+		<display-name lang="ru">Матч! Боец</display-name>
+		<icon src="http://img.teleguide.info/channel/554.gif" />
+	</channel>
+	<channel id="555">
+		<display-name lang="ru">Русская ночь</display-name>
+		<icon src="http://img.teleguide.info/channel/555.gif" />
+	</channel>
+	<channel id="556">
+		<display-name lang="ru">365 дней ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/556.gif" />
+	</channel>
+	<channel id="557">
+		<display-name lang="ru">Ля-минор ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/557.gif" />
+	</channel>
+	<channel id="558">
+		<display-name lang="ru">КИНОСЕРИЯ</display-name>
+		<icon src="http://img.teleguide.info/channel/558.gif" />
+	</channel>
+	<channel id="561">
+		<display-name lang="ru">31 канал</display-name>
+		<icon src="http://img.teleguide.info/channel/561.gif" />
+	</channel>
+	<channel id="563">
+		<display-name lang="ru">ТНВ</display-name>
+		<icon src="http://img.teleguide.info/channel/563.gif" />
+	</channel>
+	<channel id="568">
+		<display-name lang="ru">HD Life</display-name>
+		<icon src="http://img.teleguide.info/channel/568.gif" />
+	</channel>
+	<channel id="585">
+		<display-name lang="ru">Кухня ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/585.gif" />
+	</channel>
+	<channel id="586">
+		<display-name lang="ru">Жара</display-name>
+		<icon src="http://img.teleguide.info/channel/586.gif" />
+	</channel>
+	<channel id="595">
+		<display-name lang="ru">Радость Моя</display-name>
+		<icon src="http://img.teleguide.info/channel/595.gif" />
+	</channel>
+	<channel id="620">
+		<display-name lang="ru">Телекафе</display-name>
+		<icon src="http://img.teleguide.info/channel/620.gif" />
+	</channel>
+	<channel id="631">
+		<display-name lang="ru">HD Media</display-name>
+	</channel>
+	<channel id="635">
+		<display-name lang="ru">1+1 международный</display-name>
+		<icon src="http://img.teleguide.info/channel/635.gif" />
+	</channel>
+	<channel id="636">
+		<display-name lang="ru">Ocean TV</display-name>
+		<icon src="http://img.teleguide.info/channel/636.gif" />
+	</channel>
+	<channel id="662">
+		<display-name lang="ru">Телепутешествия</display-name>
+		<icon src="http://img.teleguide.info/channel/662.gif" />
+	</channel>
+	<channel id="663">
+		<display-name lang="ru">Зоо ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/663.gif" />
+	</channel>
+	<channel id="666">
+		<display-name lang="ru">Кинопоказ</display-name>
+		<icon src="http://img.teleguide.info/channel/666.gif" />
+	</channel>
+	<channel id="672">
+		<display-name lang="ru">Живи!</display-name>
+		<icon src="http://img.teleguide.info/channel/672.gif" />
+	</channel>
+	<channel id="676">
+		<display-name lang="ru">Россия 24</display-name>
+		<icon src="http://img.teleguide.info/channel/676.gif" />
+	</channel>
+	<channel id="683">
+		<display-name lang="ru">Luxe HD</display-name>
+		<icon src="http://img.teleguide.info/channel/683.gif" />
+	</channel>
+	<channel id="686">
+		<display-name lang="ru">Футбол</display-name>
+		<icon src="http://img.teleguide.info/channel/686.gif" />
+	</channel>
+	<channel id="689">
+		<display-name lang="ru">SONY ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/689.gif" />
+	</channel>
+	<channel id="707">
+		<display-name lang="ru">Хабар</display-name>
+		<icon src="http://img.teleguide.info/channel/707.gif" />
+	</channel>
+	<channel id="710">
+		<display-name lang="ru">Первый канал Евразия</display-name>
+		<icon src="http://img.teleguide.info/channel/710.gif" />
+	</channel>
+	<channel id="714">
+		<display-name lang="ru">Первый Автомобильный</display-name>
+		<icon src="http://img.teleguide.info/channel/714.gif" />
+	</channel>
+	<channel id="727">
+		<display-name lang="ru">ТРО</display-name>
+		<icon src="http://img.teleguide.info/channel/727.gif" />
+	</channel>
+	<channel id="739">
+		<display-name lang="ru">Первый метео</display-name>
+	</channel>
+	<channel id="744">
+		<display-name lang="ru">Shopping Live</display-name>
+	</channel>
+	<channel id="790">
+		<display-name lang="ru">Здоровье</display-name>
+		<icon src="http://img.teleguide.info/channel/790.gif" />
+	</channel>
+	<channel id="795">
+		<display-name lang="ru">12 канал (Омск)</display-name>
+	</channel>
+	<channel id="834">
+		<display-name lang="ru">C Music TV</display-name>
+	</channel>
+	<channel id="875">
+		<display-name lang="ru">Дон24</display-name>
+	</channel>
+	<channel id="900">
+		<display-name lang="ru">NewsOne</display-name>
+	</channel>
+	<channel id="919">
+		<display-name lang="ru">ЕДА</display-name>
+	</channel>
+	<channel id="927">
+		<display-name lang="ru">Успех</display-name>
+		<icon src="http://img.teleguide.info/channel/927.gif" />
+	</channel>
+	<channel id="940">
+		<display-name lang="ru">Матч! Арена</display-name>
+		<icon src="http://img.teleguide.info/channel/940.gif" />
+	</channel>
+	<channel id="941">
+		<display-name lang="ru">49 канал</display-name>
+	</channel>
+	<channel id="946">
+		<display-name lang="ru">8 Канал</display-name>
+	</channel>
+	<channel id="948">
+		<display-name lang="ru">Animal Planet Europe</display-name>
+	</channel>
+	<channel id="949">
+		<display-name lang="ru">Ника ТВ</display-name>
+	</channel>
+	<channel id="955">
+		<display-name lang="ru">Da Vinci</display-name>
+		<icon src="http://img.teleguide.info/channel/955.gif" />
+	</channel>
+	<channel id="956">
+		<display-name lang="ru">Daring TV</display-name>
+	</channel>
+	<channel id="957">
+		<display-name lang="ru">Discovery Украина</display-name>
+		<icon src="http://img.teleguide.info/channel/957.gif" />
+	</channel>
+	<channel id="958">
+		<display-name lang="ru">English Club TV</display-name>
+		<icon src="http://img.teleguide.info/channel/958.gif" />
+	</channel>
+	<channel id="972">
+		<display-name lang="ru">Брянская Губерния</display-name>
+	</channel>
+	<channel id="974">
+		<display-name lang="ru">Мир сериалов</display-name>
+	</channel>
+	<channel id="981">
+		<display-name lang="ru">ЕДА HD</display-name>
+		<icon src="http://img.teleguide.info/channel/981.gif" />
+	</channel>
+	<channel id="996">
+		<display-name lang="ru">ЧП.Info</display-name>
+		<icon src="http://img.teleguide.info/channel/996.gif" />
+	</channel>
+	<channel id="1000">
+		<display-name lang="ru">ОТР</display-name>
+		<icon src="http://img.teleguide.info/channel/1000.gif" />
+	</channel>
+	<channel id="1002">
+		<display-name lang="ru">Загородный</display-name>
+	</channel>
+	<channel id="1006">
+		<display-name lang="ru">Brazzers TV Europe</display-name>
+	</channel>
+	<channel id="1009">
+		<display-name lang="ru">Viasat Nature CEE</display-name>
+		<icon src="http://img.teleguide.info/channel/1009.gif" />
+	</channel>
+	<channel id="1012">
+		<display-name lang="ru">НТК (Казахстан)</display-name>
+		<icon src="http://img.teleguide.info/channel/1012.gif" />
+	</channel>
+	<channel id="1018">
+		<display-name lang="ru">Матч! Планета</display-name>
+		<icon src="http://img.teleguide.info/channel/1018.gif" />
+	</channel>
+	<channel id="1022">
+		<display-name lang="ru">12 канал (Красноярск)</display-name>
+	</channel>
+	<channel id="1035">
+		<display-name lang="ru">BRIDGE TV Русский Хит</display-name>
+	</channel>
+	<channel id="1071">
+		<display-name lang="ru">Оружие</display-name>
+	</channel>
+	<channel id="1078">
+		<display-name lang="ru">Загородная жизнь</display-name>
+		<icon src="http://img.teleguide.info/channel/1078.gif" />
+	</channel>
+	<channel id="1093">
+		<display-name lang="ru">РТВ - Любимое кино</display-name>
+		<icon src="http://img.teleguide.info/channel/1093.gif" />
+	</channel>
+	<channel id="1096">
+		<display-name lang="ru">Top Shop TV</display-name>
+	</channel>
+	<channel id="1109">
+		<display-name lang="ru">ТРК Донбасс</display-name>
+		<icon src="http://img.teleguide.info/channel/1109.gif" />
+	</channel>
+	<channel id="1121">
+		<display-name lang="ru">ОТВ (Челябинск)</display-name>
+	</channel>
+	<channel id="1126">
+		<display-name lang="ru">ТНТ-Томск</display-name>
+	</channel>
+	<channel id="1154">
+		<display-name lang="ru">ОТС</display-name>
+	</channel>
+	<channel id="1157">
+		<display-name lang="ru">Pro все</display-name>
+		<icon src="http://img.teleguide.info/channel/1157.gif" />
+	</channel>
+	<channel id="1165">
+		<display-name lang="ru">НТВ (+2)</display-name>
+	</channel>
+	<channel id="1178">
+		<display-name lang="ru">MTV Hits</display-name>
+		<icon src="http://img.teleguide.info/channel/1178.gif" />
+	</channel>
+	<channel id="1179">
+		<display-name lang="ru">MTV Rocks</display-name>
+		<icon src="http://img.teleguide.info/channel/1179.gif" />
+	</channel>
+	<channel id="1214">
+		<display-name lang="ru">Четвертый канал (Екатеринбург)</display-name>
+	</channel>
+	<channel id="1275">
+		<display-name lang="ru">MTV Live International HD</display-name>
+		<icon src="http://img.teleguide.info/channel/1275.gif" />
+	</channel>
+	<channel id="1276">
+		<display-name lang="ru">MTV Music</display-name>
+		<icon src="http://img.teleguide.info/channel/1276.gif" />
+	</channel>
+	<channel id="1282">
+		<display-name lang="ru">Fashion TV</display-name>
+	</channel>
+	<channel id="1283">
+		<display-name lang="ru">НТВ (+7)</display-name>
+	</channel>
+	<channel id="1307">
+		<display-name lang="ru">Санкт-Петербург</display-name>
+		<icon src="http://img.teleguide.info/channel/1307.gif" />
+	</channel>
+	<channel id="1337">
+		<display-name lang="ru">Первый Интернет Канал</display-name>
+	</channel>
+	<channel id="1342">
+		<display-name lang="ru">РТВ - Наше кино</display-name>
+	</channel>
+	<channel id="1352">
+		<display-name lang="ru">BBC</display-name>
+	</channel>
+	<channel id="1354">
+		<display-name lang="ru">Матч! Игра</display-name>
+		<icon src="http://img.teleguide.info/channel/1354.gif" />
+	</channel>
+	<channel id="1356">
+		<display-name lang="ru">Fox Life HD</display-name>
+		<icon src="http://img.teleguide.info/channel/1356.gif" />
+	</channel>
+	<channel id="1367">
+		<display-name lang="ru">Русский бестселлер</display-name>
+	</channel>
+	<channel id="1378">
+		<display-name lang="ru">Playboy TV</display-name>
+	</channel>
+	<channel id="1382">
+		<display-name lang="ru">TV Sale</display-name>
+	</channel>
+	<channel id="1391">
+		<display-name lang="ru">Nickelodeon HD</display-name>
+		<icon src="http://img.teleguide.info/channel/1391.gif" />
+	</channel>
+	<channel id="1392">
+		<display-name lang="ru">КТК</display-name>
+		<icon src="http://img.teleguide.info/channel/1392.gif" />
+	</channel>
+	<channel id="1403">
+		<display-name lang="ru">Первый деловой</display-name>
+		<icon src="http://img.teleguide.info/channel/1403.gif" />
+	</channel>
+	<channel id="1408">
+		<display-name lang="ru">Fashion One HD</display-name>
+	</channel>
+	<channel id="1422">
+		<display-name lang="ru">Hollywood HD</display-name>
+		<icon src="http://img.teleguide.info/channel/1422.gif" />
+	</channel>
+	<channel id="1429">
+		<display-name lang="ru">ТНВ-планета</display-name>
+	</channel>
+	<channel id="1433">
+		<display-name lang="ru">Просвещение</display-name>
+		<icon src="http://img.teleguide.info/channel/1433.gif" />
+	</channel>
+	<channel id="1436">
+		<display-name lang="ru">Футбол (Украина)</display-name>
+		<icon src="http://img.teleguide.info/channel/1436.gif" />
+	</channel>
+	<channel id="1439">
+		<display-name lang="ru">НЛО-ТВ</display-name>
+	</channel>
+	<channel id="1441">
+		<display-name lang="ru">TTC</display-name>
+	</channel>
+	<channel id="1449">
+		<display-name lang="ru">RE:Music</display-name>
+	</channel>
+	<channel id="1454">
+		<display-name lang="ru">9 Волна</display-name>
+	</channel>
+	<channel id="1464">
+		<display-name lang="ru">Карусель International</display-name>
+	</channel>
+	<channel id="1465">
+		<display-name lang="ru">RU MUSIC</display-name>
+	</channel>
+	<channel id="1474">
+		<display-name lang="ru">French Lover</display-name>
+	</channel>
+	<channel id="1477">
+		<display-name lang="ru">Fashion One</display-name>
+	</channel>
+	<channel id="1478">
+		<display-name lang="ru">Инва Медиа ТВ</display-name>
+	</channel>
+	<channel id="1480">
+		<display-name lang="ru">Юрган</display-name>
+	</channel>
+	<channel id="1487">
+		<display-name lang="ru">Курай</display-name>
+	</channel>
+	<channel id="1499">
+		<display-name lang="ru">34 телеканал</display-name>
+		<icon src="http://img.teleguide.info/channel/1499.gif" />
+	</channel>
+	<channel id="1501">
+		<display-name lang="ru">Тюменское время</display-name>
+	</channel>
+	<channel id="1503">
+		<display-name lang="ru">Sony Turbo</display-name>
+		<icon src="http://img.teleguide.info/channel/1503.gif" />
+	</channel>
+	<channel id="1505">
+		<display-name lang="ru">Алматы</display-name>
+		<icon src="http://img.teleguide.info/channel/1505.gif" />
+	</channel>
+	<channel id="1507">
+		<display-name lang="ru">Домашний магазин</display-name>
+	</channel>
+	<channel id="1511">
+		<display-name lang="ru">Hustler HD</display-name>
+	</channel>
+	<channel id="1516">
+		<display-name lang="ru">СТВ (Казахстан)</display-name>
+		<icon src="http://img.teleguide.info/channel/1516.gif" />
+	</channel>
+	<channel id="1517">
+		<display-name lang="ru">Седьмой канал (Казахстан)</display-name>
+		<icon src="http://img.teleguide.info/channel/1517.gif" />
+	</channel>
+	<channel id="1518">
+		<display-name lang="ru">Канал 12 Череповец</display-name>
+	</channel>
+	<channel id="1519">
+		<display-name lang="ru">Discovery Восточная Европа</display-name>
+	</channel>
+	<channel id="1520">
+		<display-name lang="ru">Galaxy TV</display-name>
+	</channel>
+	<channel id="1521">
+		<display-name lang="ru">Travel+Adventure HD</display-name>
+	</channel>
+	<channel id="1523">
+		<display-name lang="ru">QTV (Куй ТВ)</display-name>
+		<icon src="http://img.teleguide.info/channel/1523.gif" />
+	</channel>
+	<channel id="1529">
+		<display-name lang="ru">ТРК Юнион</display-name>
+		<icon src="http://img.teleguide.info/channel/1529.gif" />
+	</channel>
+	<channel id="1531">
+		<display-name lang="ru">7NEWS</display-name>
+		<icon src="http://img.teleguide.info/channel/1531.gif" />
+	</channel>
+	<channel id="1534">
+		<display-name lang="ru">ПЛЮСПЛЮС</display-name>
+		<icon src="http://img.teleguide.info/channel/1534.gif" />
+	</channel>
+	<channel id="1540">
+		<display-name lang="ru">Аист</display-name>
+	</channel>
+	<channel id="1552">
+		<display-name lang="ru">Футбол 2</display-name>
+		<icon src="http://img.teleguide.info/channel/1552.gif" />
+	</channel>
+	<channel id="1556">
+		<display-name lang="ru">СТС International</display-name>
+	</channel>
+	<channel id="1558">
+		<display-name lang="ru">MTV European</display-name>
+		<icon src="http://img.teleguide.info/channel/1558.gif" />
+	</channel>
+	<channel id="1566">
+		<display-name lang="ru">А2</display-name>
+	</channel>
+	<channel id="1567">
+		<display-name lang="ru">Театр</display-name>
+	</channel>
+	<channel id="1570">
+		<display-name lang="ru">iConcerts</display-name>
+	</channel>
+	<channel id="1572">
+		<display-name lang="ru">Trace Sport Stars HD</display-name>
+	</channel>
+	<channel id="1574">
+		<display-name lang="ru">Shop24</display-name>
+	</channel>
+	<channel id="1578">
+		<display-name lang="ru">Enter-фильм</display-name>
+		<icon src="http://img.teleguide.info/channel/1578.gif" />
+	</channel>
+	<channel id="1590">
+		<display-name lang="ru">КХЛ HD</display-name>
+	</channel>
+	<channel id="1601">
+		<display-name lang="ru">MAXXI-TV</display-name>
+		<icon src="http://img.teleguide.info/channel/1601.gif" />
+	</channel>
+	<channel id="1603">
+		<display-name lang="ru">Nick Jr</display-name>
+	</channel>
+	<channel id="1607">
+		<display-name lang="ru">Eurosport News</display-name>
+	</channel>
+	<channel id="1610">
+		<display-name lang="ru">NHK World Japan</display-name>
+	</channel>
+	<channel id="1612">
+		<display-name lang="ru">Нано</display-name>
+	</channel>
+	<channel id="1617">
+		<display-name lang="ru">Outdoor HD</display-name>
+	</channel>
+	<channel id="1619">
+		<display-name lang="ru">SONY ТВ HD</display-name>
+	</channel>
+	<channel id="1624">
+		<display-name lang="ru">Global Star</display-name>
+	</channel>
+	<channel id="1633">
+		<display-name lang="ru">РЖД</display-name>
+	</channel>
+	<channel id="1638">
+		<display-name lang="ru">ТБН</display-name>
+	</channel>
+	<channel id="1639">
+		<display-name lang="ru">Искушение</display-name>
+	</channel>
+	<channel id="1646">
+		<display-name lang="ru">НВК САХА</display-name>
+	</channel>
+	<channel id="1653">
+		<display-name lang="ru">Кино ТВ</display-name>
+	</channel>
+	<channel id="1655">
+		<display-name lang="ru">Первый городской</display-name>
+	</channel>
+	<channel id="1658">
+		<display-name lang="ru">Russia Today Doc (RT Doc)</display-name>
+	</channel>
+	<channel id="1667">
+		<display-name lang="ru">Майдан</display-name>
+	</channel>
+	<channel id="1671">
+		<display-name lang="ru">Пятница</display-name>
+		<icon src="http://img.teleguide.info/channel/1671.gif" />
+	</channel>
+	<channel id="1679">
+		<display-name lang="ru">MIX TV</display-name>
+	</channel>
+	<channel id="1683">
+		<display-name lang="ru">Amedia Premium</display-name>
+	</channel>
+	<channel id="1684">
+		<display-name lang="ru">Эхо TV</display-name>
+	</channel>
+	<channel id="1686">
+		<display-name lang="ru">Липецкое время</display-name>
+	</channel>
+	<channel id="1688">
+		<display-name lang="ru">Setanta Sports +</display-name>
+	</channel>
+	<channel id="1692">
+		<display-name lang="ru">Zoom</display-name>
+	</channel>
+	<channel id="1700">
+		<display-name lang="ru">Охотник и Рыболов HD</display-name>
+	</channel>
+	<channel id="1705">
+		<display-name lang="ru">Первый Тульский</display-name>
+	</channel>
+	<channel id="1707">
+		<display-name lang="ru">Travel+Adventure</display-name>
+	</channel>
+	<channel id="1708">
+		<display-name lang="ru">Чaваш Ен</display-name>
+	</channel>
+	<channel id="1714">
+		<display-name lang="ru">Теледом</display-name>
+	</channel>
+	<channel id="1718">
+		<display-name lang="ru">А1</display-name>
+	</channel>
+	<channel id="1721">
+		<display-name lang="ru">Морской</display-name>
+	</channel>
+	<channel id="1727">
+		<display-name lang="ru">История</display-name>
+	</channel>
+	<channel id="1737">
+		<display-name lang="ru">Городской (Рязань)</display-name>
+	</channel>
+	<channel id="1741">
+		<display-name lang="ru">Остросюжетное HD</display-name>
+	</channel>
+	<channel id="1744">
+		<display-name lang="ru">Кинопремиум HD</display-name>
+	</channel>
+	<channel id="1745">
+		<display-name lang="ru">Губерния</display-name>
+	</channel>
+	<channel id="1752">
+		<display-name lang="ru">Добро ТВ (Украина)</display-name>
+		<icon src="http://img.teleguide.info/channel/1752.gif" />
+	</channel>
+	<channel id="1754">
+		<display-name lang="ru">Luxury</display-name>
+	</channel>
+	<channel id="1755">
+		<display-name lang="ru">Paramount Comedy</display-name>
+	</channel>
+	<channel id="1763">
+		<display-name lang="ru">Екатеринбург-ТВ</display-name>
+	</channel>
+	<channel id="1767">
+		<display-name lang="ru">Пиксель</display-name>
+		<icon src="http://img.teleguide.info/channel/1767.gif" />
+	</channel>
+	<channel id="1770">
+		<display-name lang="ru">Мир Белогорья</display-name>
+	</channel>
+	<channel id="1775">
+		<display-name lang="ru">РТР Планета СНГ</display-name>
+	</channel>
+	<channel id="1779">
+		<display-name lang="ru">Chasse &amp; Peche</display-name>
+	</channel>
+	<channel id="1780">
+		<display-name lang="ru">Paramount Channel</display-name>
+	</channel>
+	<channel id="1786">
+		<display-name lang="ru">Авто24 HD</display-name>
+	</channel>
+	<channel id="1787">
+		<display-name lang="ru">O-la-la</display-name>
+	</channel>
+	<channel id="1794">
+		<display-name lang="ru">Русский детектив</display-name>
+	</channel>
+	<channel id="1795">
+		<display-name lang="ru">10 канал</display-name>
+	</channel>
+	<channel id="1796">
+		<display-name lang="ru">СТК 10</display-name>
+	</channel>
+	<channel id="1800">
+		<display-name lang="ru">СТС Love</display-name>
+	</channel>
+	<channel id="1801">
+		<display-name lang="ru">Три Ангела</display-name>
+	</channel>
+	<channel id="1806">
+		<display-name lang="ru">Планета HD</display-name>
+	</channel>
+	<channel id="1809">
+		<display-name lang="ru">ID Investigation Discovery</display-name>
+	</channel>
+	<channel id="1811">
+		<display-name lang="ru">Крик ТВ</display-name>
+	</channel>
+	<channel id="1813">
+		<display-name lang="ru">Вместе-РФ</display-name>
+	</channel>
+	<channel id="1818">
+		<display-name lang="ru">Viasat Sport HD</display-name>
+	</channel>
+	<channel id="1821">
+		<display-name lang="ru">1HD</display-name>
+	</channel>
+	<channel id="1823">
+		<display-name lang="ru">Universmotri.ru</display-name>
+	</channel>
+	<channel id="1824">
+		<display-name lang="ru">Новое телевидение</display-name>
+	</channel>
+	<channel id="1825">
+		<display-name lang="ru">Мульт</display-name>
+	</channel>
+	<channel id="1831">
+		<display-name lang="ru">Bridge TV Classic</display-name>
+	</channel>
+	<channel id="1832">
+		<display-name lang="ru">Телеканал 360 HD</display-name>
+	</channel>
+	<channel id="1835">
+		<display-name lang="ru">В мире животных</display-name>
+	</channel>
+	<channel id="1836">
+		<display-name lang="ru">Эврика HD</display-name>
+	</channel>
+	<channel id="1837">
+		<display-name lang="ru">Спорт 1 (Украина)</display-name>
+	</channel>
+	<channel id="1838">
+		<display-name lang="ru">Спорт 2 (Украина)</display-name>
+	</channel>
+	<channel id="1850">
+		<display-name lang="ru">Kazakh TV</display-name>
+	</channel>
+	<channel id="1851">
+		<display-name lang="ru">Бокс ТВ</display-name>
+	</channel>
+	<channel id="1854">
+		<display-name lang="ru">Синергия ТВ</display-name>
+	</channel>
+	<channel id="1871">
+		<display-name lang="ru">Bollywood HD</display-name>
+	</channel>
+	<channel id="1872">
+		<display-name lang="ru">Точка ТВ</display-name>
+	</channel>
+	<channel id="1874">
+		<display-name lang="ru">47 канал</display-name>
+	</channel>
+	<channel id="1880">
+		<display-name lang="ru">Кубань 24</display-name>
+	</channel>
+	<channel id="1884">
+		<display-name lang="ru">RTД HD</display-name>
+	</channel>
+	<channel id="1894">
+		<display-name lang="ru">Food Network</display-name>
+	</channel>
+	<channel id="1900">
+		<display-name lang="ru">МУЗ-ТВ</display-name>
+	</channel>
+	<channel id="1921">
+		<display-name lang="ru">ЛДПР ТВ</display-name>
+	</channel>
+	<channel id="1924">
+		<display-name lang="ru">Баланс-ТВ</display-name>
+	</channel>
+	<channel id="1926">
+		<display-name lang="ru">Amedia Hit</display-name>
+	</channel>
+	<channel id="1930">
+		<display-name lang="ru">СТВ Плюс</display-name>
+	</channel>
+	<channel id="1956">
+		<display-name lang="ru">ЕГЭ ТВ</display-name>
+	</channel>
+	<channel id="1959">
+		<display-name lang="ru">Балашиха ТВ</display-name>
+	</channel>
+	<channel id="1961">
+		<display-name lang="ru">TVM Channel</display-name>
+	</channel>
+	<channel id="1964">
+		<display-name lang="ru">Белсат</display-name>
+	</channel>
+	<channel id="1968">
+		<display-name lang="ru">Живая планета</display-name>
+	</channel>
+	<channel id="1970">
+		<display-name lang="ru">MTV Rocks International</display-name>
+	</channel>
+	<channel id="1974">
+		<display-name lang="ru">Война и Мир</display-name>
+	</channel>
+	<channel id="1991">
+		<display-name lang="ru">Дом Кино Премиум</display-name>
+	</channel>
+	<channel id="1993">
+		<display-name lang="ru">Мир Увлечений</display-name>
+	</channel>
+	<channel id="2006">
+		<display-name lang="ru">Рыжий</display-name>
+	</channel>
+	<channel id="2008">
+		<display-name lang="ru">Надежда</display-name>
+	</channel>
+	<channel id="2011">
+		<display-name lang="ru">Ginger HD</display-name>
+	</channel>
+	<channel id="2015">
+		<display-name lang="ru">Красная линия</display-name>
+	</channel>
+	<channel id="2018">
+		<display-name lang="ru">СТРК</display-name>
+	</channel>
+	<channel id="2035">
+		<display-name lang="ru">Бобер</display-name>
+	</channel>
+	<channel id="2042">
+		<display-name lang="ru">Ani</display-name>
+	</channel>
+	<channel id="2043">
+		<display-name lang="ru">Ювелирочка</display-name>
+	</channel>
+	<channel id="2044">
+		<display-name lang="ru">Мужское кино</display-name>
+	</channel>
+	<channel id="2048">
+		<display-name lang="ru">DTX</display-name>
+	</channel>
+	<channel id="2060">
+		<display-name lang="ru">Матч!</display-name>
+	</channel>
+	<channel id="2068">
+		<display-name lang="ru">Че</display-name>
+	</channel>
+	<channel id="2090">
+		<display-name lang="ru">Комедия</display-name>
+	</channel>
+	<channel id="2111">
+		<display-name lang="ru">Калейдоскоп ТВ</display-name>
+	</channel>
+	<channel id="2113">
+		<display-name lang="ru">Museum HD</display-name>
+	</channel>
+	<channel id="2115">
+		<display-name lang="ru">Fuel TV HD</display-name>
+	</channel>
+	<channel id="2116">
+		<display-name lang="ru">Insight Ultra HD</display-name>
+	</channel>
+	<channel id="2134">
+		<display-name lang="ru">Репортер 73</display-name>
+	</channel>
+	<channel id="2135">
+		<display-name lang="ru">Наше ТВ</display-name>
+	</channel>
+	<channel id="2136">
+		<display-name lang="ru">E TV</display-name>
+	</channel>
+	<channel id="2137">
+		<display-name lang="ru">Конный мир</display-name>
+	</channel>
+	<channel id="2152">
+		<display-name lang="ru">Губерния 33</display-name>
+	</channel>
+	<channel id="2153">
+		<display-name lang="ru">КВН ТВ</display-name>
+	</channel>
+	<channel id="2154">
+		<display-name lang="ru">History 2</display-name>
+	</channel>
+	<channel id="2155">
+		<display-name lang="ru">Пингвин Лоло</display-name>
+	</channel>
+	<channel id="2161">
+		<display-name lang="ru">Центральное телевидение</display-name>
+	</channel>
+	<channel id="2166">
+		<display-name lang="ru">Открытый Мир</display-name>
+	</channel>
+	<channel id="2167">
+		<display-name lang="ru">Твой Дом</display-name>
+	</channel>
+	<channel id="2175">
+		<display-name lang="ru">Живая природа HD</display-name>
+	</channel>
+	<channel id="2179">
+		<display-name lang="ru">Bridge HD</display-name>
+	</channel>
+	<channel id="2191">
+		<display-name lang="ru">Detektive TV</display-name>
+	</channel>
+	<channel id="2193">
+		<display-name lang="ru">Sony Channel</display-name>
+	</channel>
+	<channel id="2194">
+		<display-name lang="ru">Russian MusicBox HD</display-name>
+	</channel>
+	<channel id="2195">
+		<display-name lang="ru">Анекдот ТВ</display-name>
+	</channel>
+	<channel id="2197">
+		<display-name lang="ru">Малыш</display-name>
+	</channel>
+	<channel id="2199">
+		<display-name lang="ru">Наш Детектив</display-name>
+	</channel>
+	<channel id="2200">
+		<display-name lang="ru">Наш Кинороман</display-name>
+	</channel>
+	<channel id="2209">
+		<display-name lang="ru">Наше Любимое</display-name>
+	</channel>
+	<channel id="2212">
+		<display-name lang="ru">В гостях у сказки</display-name>
+	</channel>
+	<channel id="2214">
+		<display-name lang="ru">НТВ Право</display-name>
+	</channel>
+	<channel id="2215">
+		<display-name lang="ru">НТВ Сериал</display-name>
+	</channel>
+	<channel id="2216">
+		<display-name lang="ru">НТВ Стиль</display-name>
+	</channel>
+	<channel id="2224">
+		<display-name lang="ru">О!</display-name>
+	</channel>
+	<channel id="2226">
+		<display-name lang="ru">Мультик HD</display-name>
+	</channel>
+	<channel id="2227">
+		<display-name lang="ru">ТНТ HD</display-name>
+	</channel>
+	<channel id="2229">
+		<display-name lang="ru">DocuBox HD</display-name>
+	</channel>
+	<channel id="2230">
+		<display-name lang="ru">FilmBox</display-name>
+	</channel>
+	<channel id="2232">
+		<display-name lang="ru">Russian Extreme Ultra HD</display-name>
+	</channel>
+	<channel id="2234">
+		<display-name lang="ru">TVRUS </display-name>
+	</channel>
+	<channel id="2235">
+		<display-name lang="ru">Продвижение</display-name>
+	</channel>
+	<channel id="2237">
+		<display-name lang="ru">Spike</display-name>
+	</channel>
+	<channel id="2243">
+		<display-name lang="ru">World Business Channel</display-name>
+	</channel>
+	<channel id="2244">
+		<display-name lang="ru">H2 HD</display-name>
+	</channel>
+	<channel id="2246">
+		<display-name lang="ru">Поехали!</display-name>
+	</channel>
+	<channel id="2249">
+		<display-name lang="ru">Filmbox ArtHouse</display-name>
+	</channel>
+	<channel id="2252">
+		<display-name lang="ru">7 TV</display-name>
+	</channel>
+	<channel id="2254">
+		<display-name lang="ru">DuckTV</display-name>
+	</channel>
+	<channel id="2258">
+		<display-name lang="ru">HOME 4K</display-name>
+	</channel>
+	<channel id="2261">
+		<display-name lang="ru">Fast &amp; FunBox HD</display-name>
+	</channel>
+	<channel id="2263">
+		<display-name lang="ru">FightBox</display-name>
+	</channel>
+	<channel id="2267">
+		<display-name lang="ru">Охотник и Рыболов Int</display-name>
+	</channel>
+	<channel id="2273">
+		<display-name lang="ru">Доктор</display-name>
+	</channel>
+	<channel id="2274">
+		<display-name lang="ru">Диалоги о рыбалке</display-name>
+	</channel>
+	<channel id="2275">
+		<display-name lang="ru">Русский Север</display-name>
+	</channel>
+	<channel id="2276">
+		<display-name lang="ru">Пес и Ко</display-name>
+	</channel>
+	<channel id="2279">
+		<display-name lang="ru">Наша Сибирь</display-name>
+	</channel>
+	<channel id="2285">
+		<display-name lang="ru">Первый вегетарианский</display-name>
+	</channel>
+	<channel id="2288">
+		<display-name lang="ru">Классика Кино</display-name>
+	</channel>
+	<channel id="2290">
+		<display-name lang="ru">Известия</display-name>
+	</channel>
+	<channel id="2291">
+		<display-name lang="ru">Неизвестная Планета</display-name>
+	</channel>
+	<channel id="2294">
+		<display-name lang="ru">Eurosport Gold</display-name>
+	</channel>
+	<channel id="2295">
+		<display-name lang="ru">Ратник</display-name>
+	</channel>
+	<channel id="2296">
+		<display-name lang="ru">Дикий</display-name>
+	</channel>
+	<channel id="2300">
+		<display-name lang="ru">Дорама</display-name>
+	</channel>
+	<channel id="2303">
+		<display-name lang="ru">Большая Азия</display-name>
+	</channel>
+	<channel id="2309">
+		<display-name lang="ru">Дикая Рыбалка HD</display-name>
+	</channel>
+	<channel id="2310">
+		<display-name lang="ru">Дикая Охота HD</display-name>
+	</channel>
+	<channel id="2317">
+		<display-name lang="ru">Festival 4K</display-name>
+	</channel>
+	<channel id="2321">
+		<display-name lang="ru">Eurosport Gold HD</display-name>
+	</channel>
+	<channel id="2324">
+		<display-name lang="ru">Дайвинг.TV</display-name>
+	</channel>
+	<channel id="2325">
+		<display-name lang="ru">Мультимузыка</display-name>
+	</channel>
+	<channel id="2338">
+		<display-name lang="ru">Супер</display-name>
+	</channel>
+	<channel id="2339">
+		<display-name lang="ru">Тномер</display-name>
+	</channel>
+	<channel id="2341">
+		<display-name lang="ru">Точка отрыва</display-name>
+	</channel>
+	<channel id="2351">
+		<display-name lang="ru">M-1 GLOBAL</display-name>
+	</channel>
+	<channel id="2353">
+		<display-name lang="ru">НТВ Хит</display-name>
+	</channel>
+	<channel id="2360">
+		<display-name lang="ru">Первый Мытищинский</display-name>
+	</channel>
+	<channel id="2366">
+		<display-name lang="ru">Пятый International </display-name>
+	</channel>
+	<channel id="2368">
+		<display-name lang="ru">Моторспорт ТВ</display-name>
+	</channel>
+	<channel id="2369">
+		<display-name lang="ru">Ultra HD Cinema</display-name>
+	</channel>
+	<channel id="2371">
+		<display-name lang="ru">Пятница International</display-name>
+	</channel>
+	<channel id="2380">
+		<display-name lang="ru">Светлое ТВ</display-name>
+	</channel>
+	<channel id="2383">
+		<display-name lang="ru">СТС Kids HD</display-name>
+	</channel>
+	<channel id="2391">
+		<display-name lang="ru">Башкортостан 24</display-name>
+	</channel>
+	<channel id="2398">
+		<display-name lang="ru">Star Cinema</display-name>
+	</channel>
+	<channel id="2400">
+		<display-name lang="ru">Star Family</display-name>
+	</channel>
+	<channel id="2401">
+		<display-name lang="ru">Bolt</display-name>
+	</channel>
+	<channel id="2407">
+		<display-name lang="ru">Тайна</display-name>
+	</channel>
+	<channel id="2413">
+		<display-name lang="ru">Глазами туриста</display-name>
+	</channel>
+	<channel id="2415">
+		<display-name lang="ru">МузСоюз</display-name>
+	</channel>
+	<channel id="2416">
+		<display-name lang="ru">Смайлик ТВ</display-name>
+	</channel>
+	<channel id="2423">
+		<display-name lang="ru">Советское кино</display-name>
+	</channel>
+	<channel id="2424">
+		<display-name lang="ru">Советские мультфильмы</display-name>
+	</channel>
+	<channel id="2426">
+		<display-name lang="ru">Сказки Зайки</display-name>
+	</channel>
+	<channel id="2441">
+		<display-name lang="ru">Шаян ТВ</display-name>
+	</channel>
+	<channel id="2445">
+		<display-name lang="ru">FAN</display-name>
+	</channel>
+	<channel id="2452">
+		<display-name lang="ru">ViP Serial</display-name>
+	</channel>
+	<channel id="2463">
+		<display-name lang="ru">О!Кино</display-name>
+	</channel>
+	<channel id="2470">
+		<display-name lang="ru">Матч! Страна</display-name>
+	</channel>
+	<channel id="2487">
+		<display-name lang="ru">Победа</display-name>
+	</channel>
+	<channel id="2574">
+		<display-name lang="ru">Россия 1 (дубль +7)</display-name>
+	</channel>
+	<channel id="3108">
+		<display-name lang="ru">Киноужас</display-name>
+	</channel>
+	<channel id="100001">
+		<display-name lang="ru">Матч! Футбол 2</display-name>
+		<icon src="http://img.teleguide.info/channel/100001.gif" />
+	</channel>
+	<channel id="100002">
+		<display-name lang="ru">Дом кино</display-name>
+		<icon src="http://img.teleguide.info/channel/100002.gif" />
+	</channel>
+	<channel id="100008">
+		<display-name lang="ru">Eurosport 2</display-name>
+		<icon src="http://img.teleguide.info/channel/100008.gif" />
+	</channel>
+	<channel id="100009">
+		<display-name lang="ru">CCTV-Русский</display-name>
+		<icon src="http://img.teleguide.info/channel/100009.gif" />
+	</channel>
+	<channel id="100010">
+		<display-name lang="ru">МИР</display-name>
+		<icon src="http://img.teleguide.info/channel/100010.gif" />
+	</channel>
+	<channel id="100013">
+		<display-name lang="ru">Cinema</display-name>
+		<icon src="http://img.teleguide.info/channel/100013.gif" />
+	</channel>
+	<channel id="100016">
+		<display-name lang="ru">Ностальгия</display-name>
+		<icon src="http://img.teleguide.info/channel/100016.gif" />
+	</channel>
+	<channel id="100017">
+		<display-name lang="ru">World Fashion Channel (рус.)</display-name>
+		<icon src="http://img.teleguide.info/channel/100017.gif" />
+	</channel>
+	<channel id="100018">
+		<display-name lang="ru">ТДК</display-name>
+		<icon src="http://img.teleguide.info/channel/100018.gif" />
+	</channel>
+	<channel id="100022">
+		<display-name lang="ru">TLC</display-name>
+		<icon src="http://img.teleguide.info/channel/100022.gif" />
+	</channel>
+	<channel id="100024">
+		<display-name lang="ru">Совершенно Секретно</display-name>
+		<icon src="http://img.teleguide.info/channel/100024.gif" />
+	</channel>
+	<channel id="100025">
+		<display-name lang="ru">ВРЕМЯ</display-name>
+		<icon src="http://img.teleguide.info/channel/100025.gif" />
+	</channel>
+	<channel id="100026">
+		<display-name lang="ru">VH1 Classic</display-name>
+		<icon src="http://img.teleguide.info/channel/100026.gif" />
+	</channel>
+	<channel id="100029">
+		<display-name lang="ru">MTV Dance</display-name>
+		<icon src="http://img.teleguide.info/channel/100029.gif" />
+	</channel>
+	<channel id="100030">
+		<display-name lang="ru">MCM Top</display-name>
+		<icon src="http://img.teleguide.info/channel/100030.gif" />
+	</channel>
+	<channel id="100031">
+		<display-name lang="ru">Russian MusicBox</display-name>
+		<icon src="http://img.teleguide.info/channel/100031.gif" />
+	</channel>
+	<channel id="100032">
+		<display-name lang="ru">Музыка Первого</display-name>
+		<icon src="http://img.teleguide.info/channel/100032.gif" />
+	</channel>
+	<channel id="100036">
+		<display-name lang="ru">Russia Today</display-name>
+		<icon src="http://img.teleguide.info/channel/100036.gif" />
+	</channel>
+	<channel id="100037">
+		<display-name lang="ru">Киносемья</display-name>
+		<icon src="http://img.teleguide.info/channel/100037.gif" />
+	</channel>
+	<channel id="100042">
+		<display-name lang="ru">Hustler Blue (Ночной канал)</display-name>
+		<icon src="http://img.teleguide.info/channel/100042.gif" />
+	</channel>
+	<channel id="100045">
+		<display-name lang="ru">Fashion TV HD</display-name>
+		<icon src="http://img.teleguide.info/channel/100045.gif" />
+	</channel>
+	<channel id="100046">
+		<display-name lang="ru">RU TV</display-name>
+		<icon src="http://img.teleguide.info/channel/100046.gif" />
+	</channel>
+	<channel id="100047">
+		<display-name lang="ru">Discovery HD Showcase</display-name>
+		<icon src="http://img.teleguide.info/channel/100047.gif" />
+	</channel>
+	<channel id="100048">
+		<display-name lang="ru">Eurosport 1 HD</display-name>
+		<icon src="http://img.teleguide.info/channel/100048.gif" />
+	</channel>
+	<channel id="100049">
+		<display-name lang="ru">JimJam</display-name>
+		<icon src="http://img.teleguide.info/channel/100049.gif" />
+	</channel>
+	<channel id="100051">
+		<display-name lang="ru">Nat Geo WILD</display-name>
+		<icon src="http://img.teleguide.info/channel/100051.gif" />
+	</channel>
+	<channel id="100052">
+		<display-name lang="ru">Матч! Наш Спорт</display-name>
+		<icon src="http://img.teleguide.info/channel/100052.gif" />
+	</channel>
+	<channel id="100053">
+		<display-name lang="ru">Киномикс</display-name>
+		<icon src="http://img.teleguide.info/channel/100053.gif" />
+	</channel>
+	<channel id="100054">
+		<display-name lang="ru">Tiji</display-name>
+		<icon src="http://img.teleguide.info/channel/100054.gif" />
+	</channel>
+	<channel id="100055">
+		<display-name lang="ru">Канал Disney</display-name>
+		<icon src="http://img.teleguide.info/channel/100055.gif" />
+	</channel>
+	<channel id="100057">
+		<display-name lang="ru">ТНТ4</display-name>
+		<icon src="http://img.teleguide.info/channel/100057.gif" />
+	</channel>
+	<channel id="100059">
+		<display-name lang="ru">Эгоист ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/100059.gif" />
+	</channel>
+	<channel id="100060">
+		<display-name lang="ru">Mezzo Live HD</display-name>
+		<icon src="http://img.teleguide.info/channel/100060.gif" />
+	</channel>
+	<channel id="100069">
+		<display-name lang="ru">Матч! Футбол 2 HD</display-name>
+		<icon src="http://img.teleguide.info/channel/100069.gif" />
+	</channel>
+	<channel id="100072">
+		<display-name lang="ru">Матч! Арена HD</display-name>
+		<icon src="http://img.teleguide.info/channel/100072.gif" />
+	</channel>
+	<channel id="100073">
+		<display-name lang="ru">Business (Украина)</display-name>
+		<icon src="http://img.teleguide.info/channel/100073.gif" />
+	</channel>
+	<channel id="100075">
+		<display-name lang="ru">Boomerang</display-name>
+	</channel>
+	<channel id="100076">
+		<display-name lang="ru">BBC Entertainment</display-name>
+	</channel>
+	<channel id="100077">
+		<display-name lang="ru">Матч! Премьер HD</display-name>
+	</channel>
+	<channel id="100079">
+		<display-name lang="ru">НТВ (+4)</display-name>
+	</channel>
+	<channel id="100080">
+		<display-name lang="ru">History HD</display-name>
+	</channel>
+	<channel id="100081">
+		<display-name lang="ru">Travel Channel HD</display-name>
+	</channel>
+	<channel id="100082">
+		<display-name lang="ru">History</display-name>
+	</channel>
+	<channel id="100083">
+		<display-name lang="ru">Страшное HD</display-name>
+	</channel>
+	<channel id="100084">
+		<display-name lang="ru">Fine Living Network</display-name>
+	</channel>
+	<channel id="100085">
+		<display-name lang="ru">6 ТВ</display-name>
+	</channel>
+	<channel id="100086">
+		<display-name lang="ru">Shot TV</display-name>
+	</channel>
+	<channel id="200000">
+		<display-name lang="ru">Русский Иллюзион</display-name>
+		<icon src="http://img.teleguide.info/channel/200000.gif" />
+	</channel>
+	<channel id="200001">
+		<display-name lang="ru">СтерхТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/200001.gif" />
+	</channel>
+	<channel id="200002">
+		<display-name lang="ru">ТНТ-Якутск</display-name>
+		<icon src="http://img.teleguide.info/channel/200002.gif" />
+	</channel>
+	<channel id="300000">
+		<display-name lang="ru">TV1000 Русское кино</display-name>
+		<icon src="http://img.teleguide.info/channel/300000.gif" />
+	</channel>
+	<channel id="300001">
+		<display-name lang="ru">SONY Sci-Fi</display-name>
+		<icon src="http://img.teleguide.info/channel/300001.gif" />
+	</channel>
+	<channel id="300002">
+		<display-name lang="ru">Viasat Sport</display-name>
+		<icon src="http://img.teleguide.info/channel/300002.gif" />
+	</channel>
+	<channel id="300003">
+		<display-name lang="ru">Беларусь 24</display-name>
+		<icon src="http://img.teleguide.info/channel/300003.gif" />
+	</channel>
+	<channel id="300006">
+		<display-name lang="ru">Союз</display-name>
+		<icon src="http://img.teleguide.info/channel/300006.gif" />
+	</channel>
+	<channel id="300007">
+		<display-name lang="ru">Карусель</display-name>
+		<icon src="http://img.teleguide.info/channel/300007.gif" />
+	</channel>
+	<channel id="300010">
+		<display-name lang="ru">Fox</display-name>
+		<icon src="http://img.teleguide.info/channel/300010.gif" />
+	</channel>
+	<channel id="300011">
+		<display-name lang="ru">Zooпарк</display-name>
+		<icon src="http://img.teleguide.info/channel/300011.gif" />
+	</channel>
+	<channel id="300012">
+		<display-name lang="ru">Мультиландия</display-name>
+		<icon src="http://img.teleguide.info/channel/300012.gif" />
+	</channel>
+	<channel id="300014">
+		<display-name lang="ru">Кто есть кто</display-name>
+		<icon src="http://img.teleguide.info/channel/300014.gif" />
+	</channel>
+	<channel id="300015">
+		<display-name lang="ru">Мама</display-name>
+		<icon src="http://img.teleguide.info/channel/300015.gif" />
+	</channel>
+	<channel id="300016">
+		<display-name lang="ru">Интер</display-name>
+		<icon src="http://img.teleguide.info/channel/300016.gif" />
+	</channel>
+	<channel id="300017">
+		<display-name lang="ru">Интер+</display-name>
+		<icon src="http://img.teleguide.info/channel/300017.gif" />
+	</channel>
+	<channel id="300018">
+		<display-name lang="ru">24 Техно</display-name>
+		<icon src="http://img.teleguide.info/channel/300018.gif" />
+	</channel>
+	<channel id="300020">
+		<display-name lang="ru">Детский</display-name>
+		<icon src="http://img.teleguide.info/channel/300020.gif" />
+	</channel>
+	<channel id="300021">
+		<display-name lang="ru">RTVi</display-name>
+		<icon src="http://img.teleguide.info/channel/300021.gif" />
+	</channel>
+	<channel id="300023">
+		<display-name lang="ru">Иллюзион +</display-name>
+		<icon src="http://img.teleguide.info/channel/300023.gif" />
+	</channel>
+	<channel id="300025">
+		<display-name lang="ru">Феникс+Кино</display-name>
+		<icon src="http://img.teleguide.info/channel/300025.gif" />
+	</channel>
+	<channel id="300027">
+		<display-name lang="ru">Baby TV</display-name>
+		<icon src="http://img.teleguide.info/channel/300027.gif" />
+	</channel>
+	<channel id="300029">
+		<display-name lang="ru">ОНТ (Беларусь)</display-name>
+		<icon src="http://img.teleguide.info/channel/300029.gif" />
+	</channel>
+	<channel id="300030">
+		<display-name lang="ru">Беларусь 2</display-name>
+		<icon src="http://img.teleguide.info/channel/300030.gif" />
+	</channel>
+	<channel id="300031">
+		<display-name lang="ru">Luxe TV</display-name>
+		<icon src="http://img.teleguide.info/channel/300031.gif" />
+	</channel>
+	<channel id="300032">
+		<display-name lang="ru">Zee TV</display-name>
+		<icon src="http://img.teleguide.info/channel/300032.gif" />
+	</channel>
+	<channel id="300033">
+		<display-name lang="ru">Настоящее Страшное Телевидение</display-name>
+		<icon src="http://img.teleguide.info/channel/300033.gif" />
+	</channel>
+	<channel id="300034">
+		<display-name lang="ru">myZen.tv</display-name>
+		<icon src="http://img.teleguide.info/channel/300034.gif" />
+	</channel>
+	<channel id="300035">
+		<display-name lang="ru">Сарафан ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/300035.gif" />
+	</channel>
+	<channel id="300036">
+		<display-name lang="ru">Deutsche Welle</display-name>
+	</channel>
+	<channel id="300037">
+		<display-name lang="ru">Bridge TV</display-name>
+		<icon src="http://img.teleguide.info/channel/300037.gif" />
+	</channel>
+	<channel id="300038">
+		<display-name lang="ru">Первый национальный (Украина)</display-name>
+		<icon src="http://img.teleguide.info/channel/300038.gif" />
+	</channel>
+	<channel id="300039">
+		<display-name lang="ru">Канал 1+1</display-name>
+		<icon src="http://img.teleguide.info/channel/300039.gif" />
+	</channel>
+	<channel id="300040">
+		<display-name lang="ru">УТР</display-name>
+		<icon src="http://img.teleguide.info/channel/300040.gif" />
+	</channel>
+	<channel id="300042">
+		<display-name lang="ru">Юмор ТВ</display-name>
+	</channel>
+	<channel id="300043">
+		<display-name lang="ru">MUSIC Box TV</display-name>
+		<icon src="http://img.teleguide.info/channel/300043.gif" />
+	</channel>
+	<channel id="300046">
+		<display-name lang="ru">2+2 (кино)</display-name>
+		<icon src="http://img.teleguide.info/channel/300046.gif" />
+	</channel>
+	<channel id="300047">
+		<display-name lang="ru">TV1000 Action</display-name>
+		<icon src="http://img.teleguide.info/channel/300047.gif" />
+	</channel>
+	<channel id="300048">
+		<display-name lang="ru">СТВ</display-name>
+	</channel>
+	<channel id="300049">
+		<display-name lang="ru">РТР Беларусь</display-name>
+		<icon src="http://img.teleguide.info/channel/300049.gif" />
+	</channel>
+	<channel id="300050">
+		<display-name lang="ru">National Geographic HD</display-name>
+		<icon src="http://img.teleguide.info/channel/300050.gif" />
+	</channel>
+	<channel id="300053">
+		<display-name lang="ru">НТВ Беларусь</display-name>
+		<icon src="http://img.teleguide.info/channel/300053.gif" />
+	</channel>
+	<channel id="300054">
+		<display-name lang="ru">Шансон ТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/300054.gif" />
+	</channel>
+	<channel id="300055">
+		<display-name lang="ru">НТВ-Мир</display-name>
+	</channel>
+	<channel id="300056">
+		<display-name lang="ru">Fox Life</display-name>
+		<icon src="http://img.teleguide.info/channel/300056.gif" />
+	</channel>
+	<channel id="300057">
+		<display-name lang="ru">Россия-Планета (Европа)</display-name>
+		<icon src="http://img.teleguide.info/channel/300057.gif" />
+	</channel>
+	<channel id="300058">
+		<display-name lang="ru">5 канал (Украина)</display-name>
+		<icon src="http://img.teleguide.info/channel/300058.gif" />
+	</channel>
+	<channel id="300059">
+		<display-name lang="ru">ICTV (Украина)</display-name>
+		<icon src="http://img.teleguide.info/channel/300059.gif" />
+	</channel>
+	<channel id="300061">
+		<display-name lang="ru">ТК Мега</display-name>
+		<icon src="http://img.teleguide.info/channel/300061.gif" />
+	</channel>
+	<channel id="300062">
+		<display-name lang="ru">НТН (Украина)</display-name>
+		<icon src="http://img.teleguide.info/channel/300062.gif" />
+	</channel>
+	<channel id="300063">
+		<display-name lang="ru">PRO Business</display-name>
+		<icon src="http://img.teleguide.info/channel/300063.gif" />
+	</channel>
+	<channel id="300065">
+		<display-name lang="ru">ВТВ (Первый музыкальный)</display-name>
+		<icon src="http://img.teleguide.info/channel/300065.gif" />
+	</channel>
+	<channel id="300066">
+		<display-name lang="ru">Москва. Доверие</display-name>
+	</channel>
+	<channel id="300068">
+		<display-name lang="ru">ВКТ Семья</display-name>
+	</channel>
+	<channel id="300069">
+		<display-name lang="ru">Восточный экспресс</display-name>
+	</channel>
+	<channel id="300071">
+		<display-name lang="ru">Беларусь 1</display-name>
+		<icon src="http://img.teleguide.info/channel/300071.gif" />
+	</channel>
+	<channel id="300074">
+		<display-name lang="ru">БелМузТВ (Беларусь)</display-name>
+		<icon src="http://img.teleguide.info/channel/300074.gif" />
+	</channel>
+	<channel id="300075">
+		<display-name lang="ru">8 канал (Беларусь)</display-name>
+		<icon src="http://img.teleguide.info/channel/300075.gif" />
+	</channel>
+	<channel id="300076">
+		<display-name lang="ru">Еврокино</display-name>
+		<icon src="http://img.teleguide.info/channel/300076.gif" />
+	</channel>
+	<channel id="300077">
+		<display-name lang="ru">К1</display-name>
+		<icon src="http://img.teleguide.info/channel/300077.gif" />
+	</channel>
+	<channel id="300078">
+		<display-name lang="ru">К2</display-name>
+		<icon src="http://img.teleguide.info/channel/300078.gif" />
+	</channel>
+	<channel id="300079">
+		<display-name lang="ru">СЕТИ НН</display-name>
+	</channel>
+	<channel id="300080">
+		<display-name lang="ru">Волга</display-name>
+	</channel>
+	<channel id="300081">
+		<display-name lang="ru">Улыбка ребенка</display-name>
+	</channel>
+	<channel id="300082">
+		<display-name lang="ru">Gulli Girl</display-name>
+		<icon src="http://img.teleguide.info/channel/300082.gif" />
+	</channel>
+	<channel id="300086">
+		<display-name lang="ru">КХЛ</display-name>
+		<icon src="http://img.teleguide.info/channel/300086.gif" />
+	</channel>
+	<channel id="300087">
+		<display-name lang="ru">Енисей регион</display-name>
+	</channel>
+	<channel id="300090">
+		<display-name lang="ru">Первый канал. (СНГ)</display-name>
+	</channel>
+	<channel id="300091">
+		<display-name lang="ru">Охотник и рыболов</display-name>
+		<icon src="http://img.teleguide.info/channel/300091.gif" />
+	</channel>
+	<channel id="300092">
+		<display-name lang="ru">Телеканал 360</display-name>
+	</channel>
+	<channel id="300093">
+		<display-name lang="ru">France 24</display-name>
+	</channel>
+	<channel id="300095">
+		<display-name lang="ru">Шокирующее</display-name>
+		<icon src="http://img.teleguide.info/channel/300095.gif" />
+	</channel>
+	<channel id="300096">
+		<display-name lang="ru">Кинопоказ HD-2</display-name>
+		<icon src="http://img.teleguide.info/channel/300096.gif" />
+	</channel>
+	<channel id="300097">
+		<display-name lang="ru">Приключения HD</display-name>
+		<icon src="http://img.teleguide.info/channel/300097.gif" />
+	</channel>
+	<channel id="300098">
+		<display-name lang="ru">Arirang TV</display-name>
+	</channel>
+	<channel id="300099">
+		<display-name lang="ru">Психология 21</display-name>
+	</channel>
+	<channel id="300101">
+		<display-name lang="ru">Домашние животные</display-name>
+		<icon src="http://img.teleguide.info/channel/300101.gif" />
+	</channel>
+	<channel id="300102">
+		<display-name lang="ru">Вопросы и ответы</display-name>
+		<icon src="http://img.teleguide.info/channel/300102.gif" />
+	</channel>
+	<channel id="300103">
+		<display-name lang="ru">РазТВ</display-name>
+		<icon src="http://img.teleguide.info/channel/300103.gif" />
+	</channel>
+	<channel id="300104">
+		<display-name lang="ru">Nat Geo Wild HD</display-name>
+		<icon src="http://img.teleguide.info/channel/300104.gif" />
+	</channel>
+	<channel id="300105">
+		<display-name lang="ru">Наука 2.0</display-name>
+		<icon src="http://img.teleguide.info/channel/300105.gif" />
+	</channel>
+	<channel id="300106">
+		<display-name lang="ru">Матч! Футбол 1 HD</display-name>
+		<icon src="http://img.teleguide.info/channel/300106.gif" />
+	</channel>
+	<channel id="300107">
+		<display-name lang="ru">Animal Planet HD</display-name>
+		<icon src="http://img.teleguide.info/channel/300107.gif" />
+	</channel>
+	<channel id="300108">
+		<display-name lang="ru">Дождь</display-name>
+		<icon src="http://img.teleguide.info/channel/300108.gif" />
+	</channel>
+	<channel id="300109">
+		<display-name lang="ru">Russian Travel Guide (RTG TV)</display-name>
+		<icon src="http://img.teleguide.info/channel/300109.gif" />
+	</channel>
+	<channel id="300110">
+		<display-name lang="ru">Мужской</display-name>
+		<icon src="http://img.teleguide.info/channel/300110.gif" />
+	</channel>
+	<channel id="300111">
+		<display-name lang="ru">Первый канал. (Европа)</display-name>
+	</channel>
+	<channel id="300112">
+		<display-name lang="ru">Первый канал. (Украина)</display-name>
+	</channel>
+	<channel id="300114">
+		<display-name lang="ru">ViP Premiere</display-name>
+	</channel>
+	<channel id="300115">
+		<display-name lang="ru">ViP Megahit</display-name>
+	</channel>
+	<channel id="300116">
+		<display-name lang="ru">ViP Comedy</display-name>
+		<icon src="http://img.teleguide.info/channel/300116.gif" />
+	</channel>
+	<channel id="300117">
+		<display-name lang="ru">Viasat Nature/History HD</display-name>
+	</channel>
+	<channel id="300118">
+		<display-name lang="ru">Outdoor Channel</display-name>
+		<icon src="http://img.teleguide.info/channel/300118.gif" />
+	</channel>
+	<channel id="300119">
+		<display-name lang="ru">Первый образовательный</display-name>
+	</channel>
+	<channel id="300121">
+		<display-name lang="ru">Europa Plus TV</display-name>
+	</channel>
+	<channel id="300124">
+		<display-name lang="ru">Россия HD</display-name>
+		<icon src="http://img.teleguide.info/channel/300124.gif" />
+	</channel>
+	<channel id="300125">
+		<display-name lang="ru">Первый HD</display-name>
+		<icon src="http://img.teleguide.info/channel/300125.gif" />
+	</channel>
+	<channel id="300126">
+		<display-name lang="ru">BRIDGE TV Dance</display-name>
+	</channel>
+	<channel id="300127">
+		<display-name lang="ru">Fox HD</display-name>
+	</channel>
+	<channel id="300128">
+		<display-name lang="ru">Матч! Футбол 3</display-name>
+	</channel>
+	<channel id="300129">
+		<display-name lang="ru">Матч! Футбол 3 HD</display-name>
+	</channel>
+	<channel id="300130">
+		<display-name lang="ru">Армения ТВ</display-name>
+	</channel>
+	<channel id="300131">
+		<display-name lang="ru">TLC HD</display-name>
+	</channel>
+	<channel id="300132">
+		<display-name lang="ru">Viasat Golf</display-name>
+	</channel>
+	<channel id="300133">
+		<display-name lang="ru">МИР HD</display-name>
+	</channel>
+	<channel id="300134">
+		<display-name lang="ru">Discovery HD</display-name>
+	</channel>
+	<channel id="300135">
+		<display-name lang="ru">НЮ АРТ ТВ</display-name>
+	</channel>
+	<channel id="300136">
+		<display-name lang="ru">Архыз 24</display-name>
+	</channel>
+	<channel id="300137">
+		<display-name lang="ru">Vintage Television</display-name>
+	</channel>
+	<channel id="300138">
+		<display-name lang="ru">Тлум HD</display-name>
+	</channel>
+	<channel id="300139">
+		<display-name lang="ru">НТВ HD</display-name>
+	</channel>
+	<channel id="300140">
+		<display-name lang="ru">Матч! HD</display-name>
+	</channel>
+	<channel id="300141">
+		<display-name lang="ru">Русская Комедия</display-name>
+	</channel>
+	<channel id="300142">
+		<display-name lang="ru">A1</display-name>
+	</channel>
+	<channel id="300143">
+		<display-name lang="ru">A2</display-name>
+	</channel>
+	<channel id="300144">
+		<display-name lang="ru">Новый мир</display-name>
+	</channel>
+	<channel id="300145">
+		<display-name lang="ru">Рубль</display-name>
+	</channel>
+	<channel id="300146">
+		<display-name lang="ru">Матч! Игра (HD)</display-name>
+	</channel>
+	<channel id="300147">
+		<display-name lang="ru">Киносат</display-name>
+	</channel>
+	<channel id="300148">
+		<display-name lang="ru">HD Медиа 3D</display-name>
+	</channel>
+	<channel id="300890">
+		<display-name lang="ru">ТВН - ТВ Центр</display-name>
+	</channel>
+	<channel id="400001">
+		<display-name lang="ru">Моя Планета</display-name>
+		<icon src="http://img.teleguide.info/channel/400001.gif" />
+	</channel>
+	<channel id="400002">
+		<display-name lang="ru">Первый всемирная сеть. (Европа)</display-name>
+	</channel>
+	<channel id="400003">
+		<display-name lang="ru">ТВ-Центр-Международное</display-name>
+	</channel>
+	<channel id="400005">
+		<display-name lang="ru">БСТ</display-name>
+	</channel>
+	<channel id="400006">
+		<display-name lang="ru">Ночной клуб</display-name>
+		<icon src="http://img.teleguide.info/channel/400006.gif" />
+	</channel>
+	<channel id="400007">
+		<display-name lang="ru">Беларусь 3</display-name>
+	</channel>
+	<channel id="400009">
+		<display-name lang="ru">МИР 24</display-name>
+	</channel>
+	<channel id="400011">
+		<display-name lang="ru">Киевская Русь</display-name>
+		<icon src="http://img.teleguide.info/channel/400011.gif" />
+	</channel>
+	<channel id="400012">
+		<display-name lang="ru">Сити</display-name>
+	</channel>
+	<channel id="400013">
+		<display-name lang="ru">Телеканал 24</display-name>
+		<icon src="http://img.teleguide.info/channel/400013.gif" />
+	</channel>
+	<channel id="400015">
+		<display-name lang="ru">Сетанта спорт</display-name>
+	</channel>
+	<channel id="400019">
+		<display-name lang="ru">RTG HD</display-name>
+	</channel>
+	<channel id="400020">
+		<display-name lang="ru">Беларусь 5</display-name>
+	</channel>
+	<channel id="400021">
+		<display-name lang="ru">ZIK</display-name>
+	</channel>
+	<channel id="400022">
+		<display-name lang="ru">БТБ</display-name>
+	</channel>
+	<channel id="400023">
+		<display-name lang="ru">Гамма</display-name>
+	</channel>
+	<channel id="400024">
+		<display-name lang="ru">МЕНЮ-ТВ</display-name>
+	</channel>
+	<channel id="400025">
+		<display-name lang="ru">РАДА</display-name>
+	</channel>
+	<channel id="400026">
+		<display-name lang="ru">Music Box Ua</display-name>
+	</channel>
+	<channel id="400028">
+		<display-name lang="ru">R1</display-name>
+	</channel>
+	<channel id="400030">
+		<display-name lang="ru">51 канал</display-name>
+	</channel>
+	<channel id="400031">
+		<display-name lang="ru">ТС РОСЬ</display-name>
+	</channel>
+	<channel id="400033">
+		<display-name lang="ru">RT Espanol</display-name>
+	</channel>
+	<channel id="400034">
+		<display-name lang="ru">Саха 24</display-name>
+	</channel>
+	<channel id="400035">
+		<display-name lang="ru">112 Украина</display-name>
+	</channel>
+	<channel id="400036">
+		<display-name lang="ru">Солнце</display-name>
+	</channel>
+	<channel id="400037">
+		<display-name lang="ru">ТиВиСи HD</display-name>
+	</channel>
+	<channel id="400038">
+		<display-name lang="ru">Первый Крымский</display-name>
+	</channel>
+	<channel id="400039">
+		<display-name lang="ru">Русский бестселлер (международный)</display-name>
+	</channel>
+	<channel id="400040">
+		<display-name lang="ru">Винтаж ТВ</display-name>
+	</channel>
+	<channel id="501101">
+		<display-name lang="ru">LTV1</display-name>
+	</channel>
+	<channel id="501102">
+		<display-name lang="ru">LTV7</display-name>
+	</channel>
+	<channel id="501103">
+		<display-name lang="ru">TV3 (Latvia)</display-name>
+	</channel>
+	<channel id="501104">
+		<display-name lang="ru">LNT</display-name>
+	</channel>
+	<channel id="501105">
+		<display-name lang="ru">TV5 (Latvia)</display-name>
+	</channel>
+	<channel id="501106">
+		<display-name lang="ru">TV6 (Latvia)</display-name>
+	</channel>
+	<channel id="501107">
+		<display-name lang="ru">Kanāls 2</display-name>
+	</channel>
+	<channel id="501108">
+		<display-name lang="ru">Pirmais Baltijas Kanāls</display-name>
+	</channel>
+	<channel id="501111">
+		<display-name lang="ru">REN Baltija</display-name>
+	</channel>
+	<channel id="501112">
+		<display-name lang="ru">3+ (Latvia)</display-name>
+	</channel>
+	<channel id="501118">
+		<display-name lang="ru">Riga TV24</display-name>
+	</channel>
+	<channel id="501606">
+		<display-name lang="ru">1 Baltijas mūzikas kanāls</display-name>
+	</channel>
+	<channel id="501607">
+		<display-name lang="ru">Muz TV Baltija</display-name>
+	</channel>
+	<channel id="502001">
+		<display-name lang="ru">ZDF</display-name>
+	</channel>
+	<channel id="502002">
+		<display-name lang="ru">KiKA</display-name>
+	</channel>
+	<channel id="502003">
+		<display-name lang="ru">Das Erste</display-name>
+	</channel>
+	<channel id="502004">
+		<display-name lang="ru">Sat.1</display-name>
+	</channel>
+	<channel id="502005">
+		<display-name lang="ru">ProSieben</display-name>
+	</channel>
+	<channel id="502006">
+		<display-name lang="ru">RTL</display-name>
+	</channel>
+	<channel id="502007">
+		<display-name lang="ru">SAT.1 Gold</display-name>
+	</channel>
+	<channel id="502008">
+		<display-name lang="ru">RTL II</display-name>
+	</channel>
+	<channel id="502009">
+		<display-name lang="ru">Super RTL</display-name>
+	</channel>
+	<channel id="502010">
+		<display-name lang="ru">Vox</display-name>
+	</channel>
+	<channel id="502011">
+		<display-name lang="ru">N-TV</display-name>
+	</channel>
+	<channel id="502012">
+		<display-name lang="ru">Nickelodeon DE</display-name>
+	</channel>
+	<channel id="502013">
+		<display-name lang="ru">Kabel Eins</display-name>
+	</channel>
+	<channel id="502014">
+		<display-name lang="ru">ProSieben MAXX</display-name>
+	</channel>
+	<channel id="502015">
+		<display-name lang="ru">ARTE</display-name>
+	</channel>
+	<channel id="502016">
+		<display-name lang="ru">N24</display-name>
+	</channel>
+	<channel id="502017">
+		<display-name lang="ru">RTL Crime</display-name>
+	</channel>
+	<channel id="502018">
+		<display-name lang="ru">RTL Living</display-name>
+	</channel>
+	<channel id="502019">
+		<display-name lang="ru">RTL NITRO</display-name>
+	</channel>
+	<channel id="502020">
+		<display-name lang="ru">RTL Passion</display-name>
+	</channel>
+	<channel id="502021">
+		<display-name lang="ru">sixx</display-name>
+	</channel>
+	<channel id="502022">
+		<display-name lang="ru">Sky Sport HD 2</display-name>
+	</channel>
+	<channel id="502023">
+		<display-name lang="ru">Sky Sport HD 1</display-name>
+	</channel>
+	<channel id="502024">
+		<display-name lang="ru">Sky Bundesliga HD 1</display-name>
+	</channel>
+	<channel id="502025">
+		<display-name lang="ru">Euronews ENG</display-name>
+	</channel>
+	<channel id="503301">
+		<display-name lang="ru">LNK</display-name>
+	</channel>
+	<channel id="503302">
+		<display-name lang="ru">TV1 Lietuva</display-name>
+	</channel>
+	<channel id="503303">
+		<display-name lang="ru">TV3 Lietuva</display-name>
+	</channel>
+	<channel id="503304">
+		<display-name lang="ru">TV6 Lietuva</display-name>
+	</channel>
+	<channel id="503305">
+		<display-name lang="ru">BTV</display-name>
+	</channel>
+	<channel id="503306">
+		<display-name lang="ru">LRT Televizija</display-name>
+	</channel>
+	<channel id="503307">
+		<display-name lang="ru">LRT Kultūra</display-name>
+	</channel>
+	<channel id="503309">
+		<display-name lang="ru">Balticum TV</display-name>
+	</channel>
+	<channel id="503312">
+		<display-name lang="ru">ПБК Литва</display-name>
+	</channel>
+	<channel id="503318">
+		<display-name lang="ru">Lietuvos ryto televizija</display-name>
+	</channel>
+	<channel id="503320">
+		<display-name lang="ru">Init TV</display-name>
+	</channel>
+	<channel id="503322">
+		<display-name lang="ru">Dzūkijos TV</display-name>
+	</channel>
+	<channel id="503326">
+		<display-name lang="ru">Info TV</display-name>
+	</channel>
+	<channel id="503327">
+		<display-name lang="ru">Penki TV</display-name>
+	</channel>
+	<channel id="503328">
+		<display-name lang="ru">Liuks!</display-name>
+	</channel>
+	<channel id="503336">
+		<display-name lang="ru">Sport 1 Lietuva</display-name>
+	</channel>
+	<channel id="503337">
+		<display-name lang="ru">Ren Lietuva</display-name>
+	</channel>
+	<channel id="503338">
+		<display-name lang="ru">Filmzone</display-name>
+	</channel>
+	<channel id="504001">
+		<display-name lang="ru">BBC One</display-name>
+	</channel>
+	<channel id="504019">
+		<display-name lang="ru">BBC Two</display-name>
+	</channel>
+	<channel id="504065">
+		<display-name lang="ru">ITV3</display-name>
+	</channel>
+	<channel id="504074">
+		<display-name lang="ru">Dave</display-name>
+	</channel>
+	<channel id="504081">
+		<display-name lang="ru">RTE One</display-name>
+	</channel>
+	<channel id="504082">
+		<display-name lang="ru">RTE 2</display-name>
+	</channel>
+	<channel id="504136">
+		<display-name lang="ru">Disney Channel (UK)</display-name>
+	</channel>
+	<channel id="504174">
+		<display-name lang="ru">ITV4</display-name>
+	</channel>
+	<channel id="504222">
+		<display-name lang="ru">Sky1</display-name>
+	</channel>
+	<channel id="504319">
+		<display-name lang="ru">Sky Cinema Crime &amp; Thriller</display-name>
+	</channel>
+	<channel id="504320">
+		<display-name lang="ru">Sky Cinema Premiere</display-name>
+	</channel>
+	<channel id="504322">
+		<display-name lang="ru">Sky Cinema Comedy</display-name>
+	</channel>
+	<channel id="504323">
+		<display-name lang="ru">Sky Cinema Family</display-name>
+	</channel>
+	<channel id="504324">
+		<display-name lang="ru">Sky Cinema Drama and Romance</display-name>
+	</channel>
+	<channel id="504326">
+		<display-name lang="ru">Sky Cinema Greats</display-name>
+	</channel>
+	<channel id="504329">
+		<display-name lang="ru">Sky Cinema Sci-fi/Horror</display-name>
+	</channel>
+	<channel id="504431">
+		<display-name lang="ru">Sky Sports 1</display-name>
+	</channel>
+	<channel id="504433">
+		<display-name lang="ru">Sky Sports 2</display-name>
+	</channel>
+	<channel id="504435">
+		<display-name lang="ru">Sky Sports 3</display-name>
+	</channel>
+	<channel id="504437">
+		<display-name lang="ru">Sky Sports 4</display-name>
+	</channel>
+	<channel id="504451">
+		<display-name lang="ru">ITV2</display-name>
+	</channel>
+	<channel id="504592">
+		<display-name lang="ru">BT Sport ESPN</display-name>
+	</channel>
+	<channel id="504628">
+		<display-name lang="ru">Sky Atlantic</display-name>
+	</channel>
+	<channel id="504704">
+		<display-name lang="ru">BT Sport 1</display-name>
+	</channel>
+	<channel id="504706">
+		<display-name lang="ru">BT Sport 2</display-name>
+	</channel>
+	<channel id="504754">
+		<display-name lang="ru">At The Races</display-name>
+	</channel>
+	<channel id="504783">
+		<display-name lang="ru">Sky Cinema Disney</display-name>
+	</channel>
+	<channel id="504889">
+		<display-name lang="ru">Sky Sports 5</display-name>
+	</channel>
+	<channel id="504919">
+		<display-name lang="ru">Sky2</display-name>
+	</channel>
+	<channel id="505001">
+		<display-name lang="ru">Ülke TV</display-name>
+	</channel>
+</tv>

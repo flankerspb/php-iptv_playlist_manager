@@ -1,0 +1,77 @@
+{
+    "source_file": "http://iptv.my/test/playlist.m3u",
+    "preset": "kodi2",
+    "params": {
+        "url-tvg": "https://www.teleguide.info/download/new3/xmltv.xml.gz",
+        "tvg-shift": "",
+        "cache": "",
+        "deinterlace": ""
+    },
+    "channels": {
+        "Карусель": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_KARUSEL",
+            "source_name": "Карусель",
+            "name": "Карусель",
+            "attribs": {
+                "group-title": "Детские",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": ""
+            }
+        },
+        "Disney Channel": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_DISNEY",
+            "source_name": "Disney Channel",
+            "name": "Disney Channel",
+            "attribs": {
+                "group-title": "Детские",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": ""
+            }
+        },
+        "Disney Channel (+7)": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_DISNEY_7",
+            "source_name": "Disney Channel (+7)",
+            "name": "Disney Channel (+7)",
+            "attribs": {
+                "group-title": "",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": ""
+            }
+        },
+        "Карусель (+3)": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_KARUSEL_2",
+            "source_name": "Карусель (+3)",
+            "name": "Карусель (+3)",
+            "attribs": {
+                "group-title": "",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": ""
+            }
+        },
+        "Карусель (+7)": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_KARUSEL_7",
+            "source_name": "Карусель (+7)",
+            "name": "Карусель (+7)",
+            "attribs": {
+                "group-title": "",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": ""
+            }
+        }
+    }
+}

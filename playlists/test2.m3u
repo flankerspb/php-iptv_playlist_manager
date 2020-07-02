@@ -1,0 +1,16 @@
+#EXTM3U url-tvg="https://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTINF:-1 group-title="Детские",Карусель
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://CH_KARUSEL
+#EXTINF:-1 group-title="Детские",Disney Channel
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://CH_DISNEY
+#EXTINF:-1 ,Disney Channel (+7)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://CH_DISNEY_7
+#EXTINF:-1 ,Карусель (+3)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://CH_KARUSEL_2
+#EXTINF:-1 ,Карусель (+7)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://CH_KARUSEL_7

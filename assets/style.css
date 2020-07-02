@@ -1,0 +1,13 @@
+pre {
+  text-align: left;
+}
+.table {
+  width: auto;
+}
+.attr-label {
+  margin-bottom: 5px;
+  display: inline-block;
+}
+.list-group {
+  text-align: left;
+}

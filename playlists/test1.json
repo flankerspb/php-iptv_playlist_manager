@@ -1,0 +1,77 @@
+{
+    "source_file": "http://iptv.my/test/playlist.m3u",
+    "preset": "ssiptv",
+    "params": {
+        "url-tvg": "https://www.teleguide.info/download/new3/xmltv.xml.gz",
+        "tvg-shift": "-2",
+        "cache": "",
+        "deinterlace": ""
+    },
+    "channels": {
+        "Disney Channel (+7)": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_DISNEY_7",
+            "source_name": "Disney Channel (+7)",
+            "name": "Disney Channel (+7)",
+            "attribs": {
+                "group-title": "Детские",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": "disney_channel.png"
+            }
+        },
+        "Карусель (+7)": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_KARUSEL_7",
+            "source_name": "Карусель (+7)",
+            "name": "Карусель (+7)",
+            "attribs": {
+                "group-title": "Детские",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": "karusel.png"
+            }
+        },
+        "Disney Channel": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_DISNEY",
+            "source_name": "Disney Channel",
+            "name": "Disney Channel",
+            "attribs": {
+                "group-title": "Недетские",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": ""
+            }
+        },
+        "Карусель (+3)": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_KARUSEL_2",
+            "source_name": "Карусель (+3)",
+            "name": "Карусель (+3)",
+            "attribs": {
+                "group-title": "Недетские",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": ""
+            }
+        },
+        "Карусель": {
+            "state": "on",
+            "status": "on",
+            "src": "http://CH_KARUSEL",
+            "source_name": "Карусель",
+            "name": "Карусель",
+            "attribs": {
+                "group-title": "",
+                "tvg-name": "",
+                "tvg-id": "",
+                "tvg-logo": ""
+            }
+        }
+    }
+}
